@@ -37,7 +37,7 @@ const Hero = () => {
           <img src={hero} alt="person graphic" className="w-64 lg:w-96 xl:w-[450px]" />
         </div>
         <div className="flex justify-between w-full px-10">
-          <img src={Circle} alt="vector graphic" className="max-w-[100px]" />
+          <img src={Circle} alt="vector graphic" className="max-w-[0px] " />
           <img src={Circle} alt="circle graphic" className="max-w-[100px]" />
         </div>
       </div>
